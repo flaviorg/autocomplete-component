@@ -7,6 +7,12 @@ This project was bootstrapped with
 
 Runs the command to install all the dependencies for the project.
 
+## Movies Mini Database
+
+### `Movie API`
+
+It was used the [Movies Mini Database](https://rapidapi.com/SAdrian/api/moviesminidatabase) to get the films by title.
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -18,10 +24,6 @@ Runs the app in the development mode.<br /> Open
 
 The page will reload if you make edits.<br /> You will also see any lint errors
 in the console.
-
-### `Movie API`
-
-It was use the [Movies Mini Database](https://rapidapi.com/SAdrian/api/moviesminidatabase) to get the films title.
     
 ### `npm run build`
 
