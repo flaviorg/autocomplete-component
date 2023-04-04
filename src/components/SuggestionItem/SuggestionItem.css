@@ -1,0 +1,19 @@
+p {
+    margin-block: 0px;
+    margin-inline: 0px;
+}
+.suggestion {
+    cursor: pointer;
+    padding: 12px 4px 12px 4px;
+    border-bottom: solid 1px black;
+}
+.suggestion-text {
+    color: #000;
+}
+.suggestion-text_highlighted {
+    background-color: yellow
+}
+
+
+
+
